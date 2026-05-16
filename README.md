@@ -176,15 +176,16 @@ Al iniciar, el programa muestra el menú principal:
 
 ### Ejemplo — Buscar por ID
 ```
-  Seleccione una opción (1-4): 1 
+  BUSCAR ESTUDIANTE POR ID ---
+  Ingrese el ID a buscar: 1
 
---- AGREGAR NUEVO ESTUDIANTE ---
-  Nombre    : Migel     
-  Apellido  : Arias
-  Edad      : 30
-  Carrera   : TIC
-
-  [OK] Estudiante agregado exitosamente con ID: 2
+  [OK] Estudiante encontrado:
+----------------------------------------
+  ID       : 1
+  Nombre   : Jenifer
+  Apellido : Ocampo
+  Edad     : 29 años
+  Carrera  : TIC
 ```
 
 ### Validación de entradas
